@@ -15,7 +15,7 @@ export class AddUser extends Component {
                   <div className="form-group">
                     <div className="form-row">
                       <div className="col">
-                        <InputText label="First Names" type="text" />
+                        <InputText label="First Name" type="text" />
                       </div>
                       <div className="col">
                         <InputText label="Last Name" type="text" />
